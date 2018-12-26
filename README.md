@@ -2,7 +2,7 @@ pid-challenge
 ---
 Students in programming team are recommended to at least attempt the PID challenge. We'll go over the solution after kickoff. Before you begin, we recommend you to know basic python(conditionals, loops, functions, classes), git, and jupyter notebooks.
 
-try it out yourself!
+try it out!
 ---
 the PID challenge is run in Jupyter notebooks. To try it out:
  1. fork this repository
