@@ -1,16 +1,16 @@
 pid-challenge
 ---
-Students in programming team are recommended to at least attempt the PID challenge. We'll go over the solution after kickoff. Before you begin, we recommend you to know basic python(conditionals, loops, functions, classes), git, and jupyter notebooks. 
+Students in programming team are recommended to at least attempt the PID challenge. We'll go over the solution after kickoff. Before you begin, we recommend you to know basic python(conditionals, loops, functions, classes), git, and jupyter notebooks.
 
 try it out yourself!
 ---
 the PID challenge is run in Jupyter notebooks. To try it out:
  1. fork this repository
  2. clone it to your computer
- 3. try it out
+ 3. try it out[(PIDChallenge.ipynb)](PIDChallenge.ipynb)
  4. push your changes to your fork so we can see the submissions!
  5. Email us at [pinnaclefrc@gmail.com](pinnaclefrc@gmail.com)
- 
+
  The challenge is pretty difficult, so don't get discouraged if you can't complete it. We just need to see where you are in terms of programming skill/experience. You'll see the solution during our next meeting(probably).
 
 
