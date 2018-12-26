@@ -7,7 +7,7 @@ try it out yourself!
 the PID challenge is run in Jupyter notebooks. To try it out:
  1. fork this repository
  2. clone it to your computer
- 3. try it out[(PIDChallenge.ipynb)](PIDChallenge.ipynb)
+ 3. try it out [(PIDChallenge.ipynb)](PIDChallenge.ipynb)
  4. push your changes to your fork so we can see the submissions!
  5. Email us at [pinnaclefrc@gmail.com](pinnaclefrc@gmail.com)
 
